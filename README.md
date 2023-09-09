@@ -1,6 +1,6 @@
 # Malaria Detection using Convolutional Neural Networks
 
-![Malaria Detection](malaria_detection.png)
+![Malaria Detection]
 
 This repository contains code for detecting malaria-infected cells using Convolutional Neural Networks (CNNs) implemented with TensorFlow and Keras. The project involves data preprocessing, model training, evaluation, and visualization.
 
