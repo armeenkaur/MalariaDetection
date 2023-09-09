@@ -1,8 +1,5 @@
 # Malaria Detection using Convolutional Neural Networks
 
-![Malaria](https://img.shields.io/badge/Malaria-Detection-brightgreen.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 This repository contains a Malaria Detection project that uses Convolutional Neural Networks (CNNs) implemented in TensorFlow/Keras to classify whether a given image contains malaria-infected (P) or uninfected (U) cells. The model is trained on a dataset of malaria cell images and achieves high accuracy in detection.
 
 ## Table of Contents
@@ -17,7 +14,6 @@ This repository contains a Malaria Detection project that uses Convolutional Neu
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
