@@ -13,7 +13,6 @@ This repository contains a Malaria Detection project that uses Convolutional Neu
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -27,7 +26,7 @@ Malaria is a life-threatening disease that affects millions of people globally. 
 
 ## Dataset
 
-The Malaria dataset used for this project can be found [here](https://link-to-your-dataset-source.com). You should download the dataset and organize it before running the code.
+The Malaria dataset used for this project can be found [here](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria). You should download the dataset and organize it before running the code.
 
 ## Data Preprocessing
 
